@@ -15,7 +15,8 @@ This Repo contains just a simple implementation of microservice architecture, wi
 - It's Just for fun & study purpose!
 
 TO DO
+- Load Balancer - Implement it from scratch using **Round Robin**  or **Least Connections** strategies.
 - Monitoring:
 - Auth
-- Message Queue System 
+- Message Queue System
 - etc.
