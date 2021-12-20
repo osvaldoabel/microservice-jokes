@@ -11,7 +11,8 @@ This Repo contains just a simple implementation of microservice architecture, wi
 
 
 **NOTE 2**:  
-No docs yet. It's *JUST FOR FUN & study purpose!*
+- No docs yet. I'll start document it properly when It'll be in a functional version.   
+- It's Just for fun & study purpose!
 
 TO DO
 - Monitoring:
